@@ -1,3 +1,6 @@
+#Author: Abheek Gulati
+#For: NJIT class CS 656
+
 import socket
 
 TCP_IP = '127.3.13.13'
